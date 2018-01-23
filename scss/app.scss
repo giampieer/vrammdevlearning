@@ -29,8 +29,8 @@ $red:             #cb3d4d;
 $red-light:       mix($red, white, 20%);
 $red-dark:        darken($red, 10%);
 
-$orange:          #f98012; // Accent (never text).
-$orange-light:    lighten($orange, 10%);
+$indigo:          #1a237e; // Accent (never text).
+$indigo-light:    lighten($indigo, 10%);
 
 $yellow:          #fbad1a; // Accent (never text).
 $yellow-light:    mix($yellow, white, 20%);
@@ -43,10 +43,10 @@ $balanced: $green !default;
 $assertive: $red !default;
 $energized: $yellow !default;
 $stable: $gray-lighter !default;
-$royal: $orange !default;
+$royal: $indigo !default;
 $calm: $turquoise !default;
 
-$mm-color:          $orange;
+$mm-color:          $indigo;
 $mm-color-light:    lighten($mm-color, 10%);
 $mm-color-dark:     darken($mm-color, 10%);
 
