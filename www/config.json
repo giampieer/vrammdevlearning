@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.vrammdev.moodlemobile",
+    "app_id" : "com.vrammdev.learning",
     "appname": "Vramm Dev - Mobile Learning",
     "desktopappname": "Vramm Dev - Mobile Learning",
     "versioncode" : "2021",
@@ -11,7 +11,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://104.196.127.190/mobilelearning.com/",
+    "siteurl": "https://moodle.cristhoperdev.com/",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",

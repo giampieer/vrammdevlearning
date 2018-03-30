@@ -7,6 +7,8 @@
     "www/index.html",
     "!www/lib/**/*"
   ],
-  "integrations": {},
+  "integrations": {
+    "gulp": {}
+  },
   "type": "ionic1"
 }
